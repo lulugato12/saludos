@@ -1,0 +1,56 @@
+/* ESTO ES CSS*/
+* {
+	background-color: lightpink;
+}
+
+div {
+	height: 80px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	align-content: center;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+p {
+	font-size: 8px;
+	margin: 0;
+}
+
+li {
+	font-size: 6px;
+}
+
+#color {
+	color: darkolivegreen;
+}
+
+.cabecera {
+	height: auto;
+}
+
+h4 {
+	margin: 0;
+}
+
+table, tr, th, td {
+	border: 0.5px solid;
+	font-size: 5px;
+}
+
+.col4 {
+	width: 23.5%;
+}
+
+.col2 {
+	width: 48.5%;
+}
+
+.fila {
+	width: 100%;
+	display: block;
+}
